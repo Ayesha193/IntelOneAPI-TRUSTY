@@ -1,1 +1,2 @@
-#IntelOneAPI-OpenInnovationChallenge(TRUSTY)
+# 
+IntelOneAPI-Open Innovation Challenge(TRUSTY)
