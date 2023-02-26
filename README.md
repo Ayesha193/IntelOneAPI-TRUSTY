@@ -18,7 +18,7 @@ The principal libraries we'll use in this notebook are:
 
 3.XGBoost Optimized for Intel® Architecture
 
-4. Intel® Daal4py
+4.Intel® Daal4py
 
 ### About the project:- 
 
@@ -26,7 +26,9 @@ In this project,I have demonstrated the results of our research by automating th
 
 ### Dataset description:-
 
-The dataset was downloaded from kaggle (InsuranceFraud.csv).https://www.kaggle.com/datasets/amanindiamuz/financial-dataset-for-fraud-detection-in-a-comapny 
+The dataset was downloaded from kaggle (InsuranceFraud.csv).
+
+In kaggle:-https://www.kaggle.com/datasets/amanindiamuz/financial-dataset-for-fraud-detection-in-a-comapny 
 
 Live demo of my project:-https://colab.research.google.com/drive/1DQ3W9pAem-shT8-fxhZTgfM8Tdl4L4Tk?usp=sharing 
 
