@@ -1,5 +1,5 @@
 
-##IntelOneAPI-Open Innovation Challenge(Trusty)
+##IntelOneAPI-Open Innovation Challenge(Trusty)##
 
 #Team name:-BLAZER
 
